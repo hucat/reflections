@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	staging area sits in between working directory to the commit. It helps us to better figuring out which changes to be grouped to one commit.
